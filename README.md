@@ -1,21 +1,8 @@
-## Table of contents
-
-* [Introduction](#introduction)
-* [Requirements](#requirements)
-* [How to use](#how-to-use)
-* [Resources](#resources)
-* [Reference](#reference)
-* [License](#license)
-
 ## Introduction
 
-This repository contains an implementation of the double deep Q-learning (DDQN) approach to control multiple UAVs on a data harvesting from IoT sensors mission, including dual global-local map processing. The corresponding paper ["Multi-UAV Path Planning for Wireless Data Harvesting with Deep Reinforcement Learning"](https://ieeexplore.ieee.org/document/9437338) is available as open access on [IEEEXplore](https://ieeexplore.ieee.org/document/9437338) and on [arXiv](https://arxiv.org/abs/2010.12461).
+This repository contains an implementation of the double deep Q-learning (DDQN) approach to control multiple UAVs on a data harvesting from IoT sensors mission, including dual global-local map processing. 
 
-An earlier single-UAV conference version "UAV Path Planning for Wireless Data Harvesting: A Deep Reinforcement Learning Approach" was presented at IEEE Globecom 2020.
 
-An additional code repository is available with a joint DDQN trajectory design solution for the problems of data harvesting and coverage path planning (single-UAV): ["uavSim"](https://github.com/theilem/uavSim).
-
-For questions, please contact [Harald Bayerlein](https://hbay.gitlab.io) via email harald.bayerlein@eurecom.fr. Please also note that due to github's new naming convention, the 'master' branch is now called 'main' branch.
 
 
 ## Requirements
